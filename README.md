@@ -1,4 +1,4 @@
-Mixture-Model-based Object Detector: PyTorch Implementation
+MDPose: PyTorch Implementation
 ===========================================================
 
 This repository is the PyTorch implementation of  
